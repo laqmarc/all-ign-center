@@ -1,13 +1,13 @@
 var allignCenter = (function () {
 'use strict';
 
-var allignCenter = function (target) {
+var index = function (target) {
   
   target.style.margin = (((target.parentElement.offsetHeight - target.offsetHeight) / 2) | 0) + 'px auto';
   target.style.position = 'absolute';
 };
 
-return allignCenter;
+return index;
 
 }());
 //# sourceMappingURL=index.js.map
