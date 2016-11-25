@@ -1,0 +1,24 @@
+{
+  "name": "all-ign-center",
+  "version": "1.0.0",
+  "description": "Vertically align HTML elements to their parent elements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laqmarc/all-ign-center.git"
+  },
+  "keywords": [
+    "vertical",
+    "element",
+    "align"
+  ],
+  "author": "laqmarc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laqmarc/all-ign-center/issues"
+  },
+  "homepage": "https://github.com/laqmarc/all-ign-center#readme"
+}
